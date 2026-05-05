@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+mysql-connector-python
+python-dotenv
+pip install fastapi uvicorn pypdf sentence-transformers faiss-cpu groq python-multipart python-dotenv
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+passlib[bcrypt]
+python-jose
+pydantic[email]
